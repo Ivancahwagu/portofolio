@@ -16,7 +16,7 @@ export default function Home() {
           <div className="flex w-full flex-wrap-reverse justify-center items-center gap-10">
             <div className="flex-1 min-w-[290px] min-[726px]:mr-10">
               <p className="text-lg mb-4">
-                Perkenalkan nama saya Ivantheo Rizky Putra. Saya lulusan SMK Umar Fatah Rembang. Saya adalah lulusab baru di tahun 2024. Saya memiliki minat di bidang pemograman. Disekolah, saya saya diajarkan html, php, mysql crud pakai php, dan css dasar saja. Selebihnyaa saya mempelajarinya sendiri.
+                Perkenalkan nama saya Ivantheo Rizky Putra. Saya lulusan SMK Umar Fatah Rembang. Saya adalah lulusan baru di tahun 2024. Saya memiliki minat di bidang pemograman. Disekolah, saya saya diajarkan html, php, mysql crud pakai php, dan css dasar saja. Selebihnyaa saya mempelajarinya sendiri.
               </p>
               <p className="text-lg mb-4">
                 Saya adalah seorang pengembang web dan bot yang bersemangat dalam menciptakan pengalaman digital yang menarik dan fungsional. Dengan keahlian dalam React, Next.js, dan teknologi web modern lainnya, saya selalu berusaha untuk menghadirkan solusi inovatif untuk setiap proyek.
