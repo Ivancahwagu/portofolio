@@ -54,8 +54,8 @@ export default function Home() {
           <h2 className="text-3xl font-bold mb-8 text-center">Hubungi Saya</h2>
         </div>
         <div className="flex flex-wrap justify-center items-center gap-8">
-          <Link className="dark:bg-gray-800 shadow-inner dark:shadow-gray-600 bg-gray-500 hover:opacity-90 backdrop-blur-xl shadow-gray-300 px-5 py-4 min-w-[300px] text-center rounded-xl " href={`https://wa.me/6285809011357`}>Whatsapp</Link>
-          <Link className="dark:bg-gray-800 shadow-inner dark:shadow-gray-600 bg-gray-500 hover:opacity-90 backdrop-blur-xl shadow-gray-300 px-5 py-4 min-w-[300px] text-center rounded-xl " href={`mailto:ivantheo159@gmail.com`}>Gmail</Link>
+          <Link target="_blank" className="dark:bg-gray-800 shadow-inner dark:shadow-gray-600 bg-gray-500 hover:opacity-90 backdrop-blur-xl shadow-gray-300 px-5 py-4 min-w-[300px] text-center rounded-xl " href={`https://wa.me/6285809011357`}>Whatsapp</Link>
+          <Link target="_blank" className="dark:bg-gray-800 shadow-inner dark:shadow-gray-600 bg-gray-500 hover:opacity-90 backdrop-blur-xl shadow-gray-300 px-5 py-4 min-w-[300px] text-center rounded-xl " href={`mailto:ivantheo159@gmail.com`}>Gmail</Link>
         </div>
       </section>
     </main>
