@@ -25,8 +25,8 @@ export default function Home() {
                 Saya suka mempelajari hal-hal baru. Ketika saya gabut saya suka mengotak-atik bot saya agar menjadi lebih bagus. Saya pantang menyerah kalau ada eror pada kode yaang saya buat saya akan berusaha untuk memperbaikinya sampai kode tersebut bisa berjalan dengan baik.
               </p>
             </div>
-            <div className="mb-20 min-[686px]:mb-0 bg-transparent backdrop-blur-xl border dark:border-slate-100 border-slate-900">
-              <img className="" src="/pp.png" width={`300px`} />
+            <div className="mb-20 w-[300px] h-[400px] min-[686px]:mb-0 bg-[url('/pp.png')] backdrop-blur-xl border dark:border-slate-100 border-slate-900 bg-cover">
+              {/* <img className="" src="/pp.png" width={`300px`} /> */}
             </div>
           </div>
         </div>
