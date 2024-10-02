@@ -10,7 +10,7 @@ export default function Home() {
         <h1 className="text-4xl font-bold">Selamat Datang di Portofolio Saya</h1>
         <p className="mt-5 text-base max-w-[80%]">Pengembang Web Kreatif, Pengembang Bot & Inovatif</p>
       </section>
-      <section className="py-20 px-4 bg-gradient-to-l from-transparent via-slate-500/10 to-transparent">
+      <section className="py-20 px-4">
         <div className="max-w-5xl mx-auto">
           <h2 className="text-3xl font-bold mb-20 text-center">Tentang Saya</h2>
           <div className="flex w-full flex-wrap-reverse justify-center items-center gap-10">
@@ -31,7 +31,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <section className="py-20 px-4 bg-gradient-to-l from-transparent via-stone-500/20 to-transparent">
+      <section className="py-20 px-4">
         <div className="max-w-3xl mx-auto mb-20">
           <h2 className="text-3xl font-bold mb-8 text-center">Project Saya</h2>
         </div>
@@ -49,7 +49,7 @@ export default function Home() {
           )}
         </div>
       </section>
-      <section className="py-20 px-4 bg-gradient-to-l from-transparent via-slate-500/20 to-transparent">
+      <section className="py-20 px-4">
         <div className="max-w-3xl mx-auto mb-20">
           <h2 className="text-3xl font-bold mb-8 text-center">Hubungi Saya</h2>
         </div>
